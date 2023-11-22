@@ -1,2 +1,2 @@
 # Interesting ArturoTF projects and bonus material
-Por ahora esta vacio pero pronto estara lleno :)
+For now it's empty but it will be full soon :)

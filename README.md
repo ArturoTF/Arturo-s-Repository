@@ -1,3 +1,3 @@
-## Interesting ArturoTF projects and bonus material
+# Interesting ArturoTF projects and bonus material
 
-# Discord Bot
+### Discord Bot
